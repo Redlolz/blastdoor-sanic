@@ -1,4 +1,6 @@
-Flask
+sanic
+sanic_session
+jinja2
 argon2-cffi
 pycryptodome
 riposte

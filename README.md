@@ -1,6 +1,6 @@
 # blastdoor
 
-A pretty secure way of logging in written in Python and Flask.
+A pretty secure way of logging in written in Python and Sanic.
 
 ## Installation and usage
 
@@ -85,6 +85,5 @@ Password verify:
 Now you can start the server
 
 ```bash
-export FLASK_APP=blastdoor.py
-flask run
+(env)$ python3 blastdoor.py
 ```
